@@ -1,12 +1,12 @@
 
 [
   {
-    "repository": "CyanogenMod/android_device_lge_g4-common",
+    "repository": "LineageOS/android_device_lge_g4-common",
     "target_path": "device/lge/g4-common",
     "branch":      "cm-14.1"
   },
   {
-    "repository": "CyanogenMod/android_kernel_lge_msm8992",
+    "repository": "LineageOS/android_kernel_lge_msm8992",
     "target_path": "kernel/lge/msm8992",
     "branch":      "cm-14.1"
   },
@@ -16,7 +16,7 @@
     "branch":      "n7.1"
   },
   {
-    "repository": "CyanogenMod/android_device_qcom_common",
+    "repository": "LineageOS/android_device_qcom_common",
     "target_path": "device/qcom/common",
     "branch":      "cm-14.1"
   },
